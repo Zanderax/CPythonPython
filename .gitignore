@@ -1,2 +1,4 @@
 *.o
+
+# python compiled c++ files
 *_pyc.cpp
