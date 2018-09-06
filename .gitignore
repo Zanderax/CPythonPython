@@ -1,4 +1,5 @@
 *.o
+settings.json
 
 # python compiled c++ files
 *_pyc.cpp
